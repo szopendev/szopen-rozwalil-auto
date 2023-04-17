@@ -1,7 +1,6 @@
 --  
 -- definitelynotszopen 
--- nw co to jest to jest w 80% moje 
--- bo pierwsza funkcja jest z neta i pozniej troche oddnoscik do local ped chuj nie bede ci sie tlumaczyl masz i uzywaj
+-- skrypt na rozwalanieaut
 --
 function GetVehHealthPercent()
 	local ped = GetPlayerPed(-1)
